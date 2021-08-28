@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50527877383",
+    "project_id": "vs-quiz",
+    "storage_bucket": "vs-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50527877383:android:6ba415b1a0746deca6eda2",
+        "android_client_info": {
+          "package_name": "com.vs.quiz4_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50527877383-k3as7ug3oeejik2vtoq8vanai6uls8en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfJwwkQeyDDqWH04JrL5Dcr6Xxn47AgqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50527877383-k3as7ug3oeejik2vtoq8vanai6uls8en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
